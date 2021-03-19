@@ -1,0 +1,15 @@
+Saya Amar Musaddad mengerjakan TP2 dalam mata kuliah DPBO untuk keberkahan Nya maka 
+saya tidak melakukan kecurangan seperti yang telah di-spesifikasika. Aamiin. 
+
+Kesulitan:
+1. Memilih fitur yang seharusnya dipakai
+2. Menambahkan foto
+3. Kurang memahami Bahasa Java
+
+Hal yang dipelajari:
+1. Mengerti pemakaian Apache Netbeans
+2. Menyambungkan database menggunakan libraries
+
+Fitur:
+Menyambungkan database menggunakan libraries
+
